@@ -42,9 +42,9 @@ const Index = () => {
         <div className="relative z-10 text-center px-4 max-w-4xl">
           <div className="animate-fade-in">
             <h1 className="font-playfair text-6xl md:text-8xl font-bold mb-6 text-black leading-tight">
-              Студия
+              CHERRY
               <span className="block bg-gradient-to-r from-coral to-teal bg-clip-text text-transparent">
-                艺术摄影
+                STUDIO
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 font-montserrat leading-relaxed">
