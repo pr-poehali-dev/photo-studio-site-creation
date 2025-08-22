@@ -6,24 +6,17 @@ import Icon from '@/components/ui/icon';
 const Index = () => {
   const photographers = [
     {
-      name: "Анна Кремлёва",
-      specialty: "Портретная съёмка",
-      experience: "8 лет",
-      image: "/img/2e221378-f7e5-4fed-b092-371c7f4d1681.jpg",
+      name: "Влад Красников",
+      specialty: "Фотограф",
+      experience: "6 лет",
+      image: "/img/c58b63e0-e8f8-427b-8712-30bd491cea0c.jpg",
       style: "Эмоциональные портреты"
     },
     {
-      name: "Михаил Светов", 
-      specialty: "Fashion & Beauty",
-      experience: "12 лет",
-      image: "/img/c58b63e0-e8f8-427b-8712-30bd491cea0c.jpg",
-      style: "Концептуальная фотография"
-    },
-    {
-      name: "Елена Вишнева",
-      specialty: "Арт-фотография", 
-      experience: "6 лет",
-      image: "/img/dc1bcff2-3548-4f5e-b2dc-3531ea80cdca.jpg",
+      name: "Зайцева Дарья",
+      specialty: "Арт-дизайнер",
+      experience: "8 лет",
+      image: "/img/2e221378-f7e5-4fed-b092-371c7f4d1681.jpg",
       style: "Творческие эксперименты"
     }
   ];
